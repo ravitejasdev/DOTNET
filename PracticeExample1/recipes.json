@@ -1,0 +1,78 @@
+{
+    "recipes": [
+        {
+            "title": "Spaghetti Carbonara",
+            "ingredients": [
+                "200g spaghetti",
+                "100g pancetta",
+                "2 large eggs",
+                "50g pecorino cheese",
+                "50g parmesan cheese",
+                "Freshly ground black pepper",
+                "Salt",
+                "2 cloves of garlic",
+                "Fresh flat-leaf parsley"
+            ],
+            "instructions": [
+                "Boil the spaghetti in a large pot of salted water according to the package instructions.",
+                "In a pan, cook the pancetta until it is crispy. Add the garlic and cook for another minute.",
+                "Beat the eggs in a bowl, then mix in the grated pecorino and parmesan cheese.",
+                "Drain the spaghetti and add it to the pan with the pancetta. Remove the pan from the heat.",
+                "Quickly mix the egg and cheese mixture into the pasta, stirring vigorously to prevent the eggs from scrambling.",
+                "Season with pepper and garnish with parsley before serving."
+            ],
+            "categories": ["Italian", "Pasta"]
+        },
+        {
+            "title": "Chicken Curry",
+            "ingredients": [
+                "500g chicken breast, cut into cubes",
+                "1 onion, chopped",
+                "2 cloves of garlic, minced",
+                "1 tbsp ginger, grated",
+                "2 tomatoes, chopped",
+                "200ml coconut milk",
+                "2 tbsp curry powder",
+                "1 tsp turmeric",
+                "1 tsp cumin",
+                "Salt",
+                "Fresh coriander"
+            ],
+            "instructions": [
+                "Heat oil in a pan and sauté the onions, garlic, and ginger until they are fragrant.",
+                "Add the chicken and cook until it is browned on all sides.",
+                "Stir in the tomatoes, curry powder, turmeric, and cumin. Cook for a few more minutes.",
+                "Pour in the coconut milk and bring the mixture to a simmer.",
+                "Cook until the chicken is fully cooked and the sauce has thickened.",
+                "Season with salt and garnish with fresh coriander before serving."
+            ],
+            "categories": ["Indian", "Main Course"]
+        },
+        {
+            "title": "Chocolate Chip Cookies",
+            "ingredients": [
+                "200g all-purpose flour",
+                "1/2 tsp baking soda",
+                "170g unsalted butter, melted",
+                "220g brown sugar",
+                "100g granulated sugar",
+                "1 tbsp vanilla extract",
+                "1 large egg",
+                "1 egg yolk",
+                "325g chocolate chips",
+                "Salt"
+            ],
+            "instructions": [
+                "Preheat the oven to 170°C (340°F).",
+                "In a bowl, whisk together the flour and baking soda.",
+                "In a separate bowl, mix the melted butter, brown sugar, and granulated sugar until well blended.",
+                "Beat in the vanilla, egg, and egg yolk until the mixture is light and creamy.",
+                "Gradually add the flour mixture and mix until just blended.",
+                "Stir in the chocolate chips.",
+                "Drop cookie dough onto the baking sheet, and bake for 15-17 minutes.",
+                "Allow cookies to cool on the baking sheets before transferring to wire racks."
+            ],
+            "categories": ["Dessert", "Cookies"]
+        }
+    ]
+}

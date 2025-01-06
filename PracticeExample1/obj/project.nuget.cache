@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GqjhayBhv2o=",
+  "dgSpecHash": "ATYoOdcqBoI=",
   "success": true,
   "projectFilePath": "C:\\Ravi\\DOTNET\\PRACTICE\\PracticeExample1\\PracticeExample1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\teja8\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }
